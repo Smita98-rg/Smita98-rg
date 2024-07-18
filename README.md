@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Smita98-rg
 - 👀 I’m interested in Tech and Travel
-- 🌱 I’m currently learning Computer (advance project)
-- 💞️ I’m looking to collaborate on Google or Apple
-- 📫 How to reach me Social Media
+- 🌱 I’m currently learning : Computer (advance project)
+- 💞️ I’m looking to collaborate on : Google or Apple
+- 📫 How to reach me : Through Social Media
 - 😄 Pronouns: Sam or Samisco
 - ⚡ Fun fact: Besides coding, I love hiking and have climbed Mount Fuji!
 
